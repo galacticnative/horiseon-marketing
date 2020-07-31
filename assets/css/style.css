@@ -1,3 +1,4 @@
+/* start of style sheet */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -72,6 +73,13 @@ p {
     background-position: center;
 }
 
+/* moved content styles to same area on sheet for flow */
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -82,13 +90,6 @@ p {
     margin-left: 25px;
 }
 
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
-
-/* moved content styles to same area on sheet for flow */
 /* combined content class of img's for image height */
 .content img {
     max-height: 200px;
@@ -165,3 +166,4 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* end of style sheet */
