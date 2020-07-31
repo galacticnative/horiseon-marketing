@@ -25,3 +25,5 @@ The benefits class was grouped in the same area of the style sheet and the conte
 The style sheet begins with css that applied to the whole webpage and then started with header and footer. After was the class styles and webpage content styles that were more specific to classes. 
 
 Commits to GitHub were pushed at various times throughout the refractor process. 
+
+![picture](assets/images/demo.png)
