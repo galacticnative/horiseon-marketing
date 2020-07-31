@@ -161,33 +161,18 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+/* combined content class of img's for image height */
+.content img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
+/* combined content class of h2's */
+.content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
+/* removed . since footer is an element that does not need a class for now */
 footer {
     padding: 30px;
     clear: both;
