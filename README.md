@@ -4,7 +4,7 @@
 This website offers an introduction to the services that Horiseon offers for webpage marketing. It captures you with images and straight-to-the-point summaries.
 
 ## Installation
-Most web-browsers are compatible with opening the project with the use of a GitHub url
+Most web-browsers are compatible with opening the project with the use of a GitHub url, as follows: https://galacticnative.github.io/horiseon-marketing4u/
 
 ## Languages
 HTML and CSS
